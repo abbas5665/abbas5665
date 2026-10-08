@@ -151,7 +151,6 @@
 </div>
 
 <!-- ═══════════ END DEVOPS PROFILE ═══════════ -->
-```
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
