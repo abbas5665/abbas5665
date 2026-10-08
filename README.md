@@ -3,7 +3,7 @@
 </div>
 # Hi 👋, I'm Abbas Kazmi
 
-### Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetest
+### Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes
 
 🚀 Learning, building, automating, and deploying real-world projects.
 
