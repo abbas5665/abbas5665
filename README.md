@@ -1,5 +1,5 @@
-```html
-<!-- ═══════════ ABBAS KAZMI | FUTURISTIC PROFILE CORE ═══════════ -->
+
+<!-- ═══════════ ABBAS KAZMI | DEVOPS PROFILE ═══════════ -->
 
 <div align="center">
 
@@ -14,16 +14,16 @@
 
   <!-- ANIMATED IDENTITY -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=ABBAS+KAZMI;DEVOPS+%2F+CLOUD+ENGINEERING;AUTOMATION+%2F+DEVSECOPS;BUILD.+DEPLOY.+AUTOMATE.+SECURE."
-    alt="Animated engineering identity"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=ABBAS+KAZMI;DEVOPS+ENGINEER;CLOUD+ENGINEERING;AUTOMATION+%2F+DEVSECOPS"
+    alt="Abbas Kazmi — DevOps Engineer"
   />
 
   <br/><br/>
 
-  <!-- FUTURISTIC DIVIDER -->
+  <!-- NEON DIVIDER -->
   <img
     width="90%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:164EBD,100:00F7FF&height=3&section=header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:164EBD,100:00F7FF&height=3"
     alt=""
   />
 
@@ -51,8 +51,8 @@
   <h3>◈ ENGINEERING THE FUTURE ◈</h3>
 
   <p>
-    Designing automated workflows, building reliable infrastructure,<br/>
-    and integrating security into modern cloud-native environments.
+    Building automated workflows, exploring cloud-native infrastructure,<br/>
+    and integrating security into modern software delivery.
   </p>
 
   <p>
@@ -69,22 +69,22 @@
 
   <img
     src="https://skillicons.dev/icons?i=linux,bash,python,git,github,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=7&theme=dark"
-    alt="DevOps, cloud, automation, and monitoring technologies"
+    alt="Linux, Bash, Python, Git, GitHub, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus and Grafana"
   />
 
   <br/><br/>
 
-  <!-- ENGINEERING PRINCIPLES -->
+  <!-- ENGINEERING DOMAINS -->
   <h3>◈ ENGINEERING DOMAINS ◈</h3>
 
   <p>
     <img
       src="https://img.shields.io/badge/01-LINUX_&_AUTOMATION-0B1220?style=flat-square&labelColor=00BFFF"
-      alt="Linux and automation"
+      alt="Linux and Automation"
     />
     <img
       src="https://img.shields.io/badge/02-CI%2FCD_PIPELINES-0B1220?style=flat-square&labelColor=635BFF"
-      alt="CI/CD pipelines"
+      alt="CI/CD Pipelines"
     />
     <img
       src="https://img.shields.io/badge/03-CONTAINERS_&_K8S-0B1220?style=flat-square&labelColor=00C896"
@@ -96,15 +96,15 @@
     />
     <img
       src="https://img.shields.io/badge/05-OBSERVABILITY_&_SECURITY-0B1220?style=flat-square&labelColor=FF4D8D"
-      alt="Observability and security"
+      alt="Observability and Security"
     />
   </p>
 
   <br/><br/>
 
-  <!-- ANIMATED ENGINEERING WORKFLOW -->
+  <!-- ANIMATED DEVOPS WORKFLOW -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1900&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;CONTAINERS+%E2%86%92+ORCHESTRATION+%E2%86%92+SCALE;INFRASTRUCTURE+AS+CODE+%7C+CONTINUOUS+DELIVERY;MONITOR+%E2%86%92+SECURE+%E2%86%92+OPTIMIZE"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1900&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;CONTAINERS+%E2%86%92+ORCHESTRATION+%E2%86%92+SCALE;INFRASTRUCTURE+AS+CODE;MONITOR+%E2%86%92+SECURE+%E2%86%92+OPTIMIZE"
     alt="Animated DevOps workflow"
   />
 
@@ -130,14 +130,14 @@
   <!-- GITHUB PROJECT ACCESS -->
   <a href="https://github.com/abbas5665?tab=repositories">
     <img
-      src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-abbas5665-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"
+      src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-ABBAS_KAZMI-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"
       alt="Explore Abbas Kazmi's GitHub projects"
     />
   </a>
 
   <br/><br/>
 
-  <!-- FINAL NEON DIVIDER -->
+  <!-- FINAL DIVIDER -->
   <img
     width="90%"
     src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,30:7B61FF,60:00F7FF,100:050816&height=3"
@@ -146,37 +146,12 @@
 
   <br/><br/>
 
-  <sub>
-    DEVOPS ENGINEERING · CLOUD INFRASTRUCTURE · DEVSECOPS
-  </sub>
+  <sub>DEVOPS ENGINEERING · CLOUD INFRASTRUCTURE · DEVSECOPS</sub>
 
 </div>
 
-<!-- ═══════════ END FUTURISTIC PROFILE CORE ═══════════ -->
+<!-- ═══════════ END DEVOPS PROFILE ═══════════ -->
 ```
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;INFRASTRUCTURE+AS+CODE+%7C+EVERYTHING+AUTOMATED;OBSERVE+%E2%86%92+LEARN+%E2%86%92+IMPROVE;ENGINEERING+THE+NEXT+GENERATION+OF+CLOUD"
-    alt="Animated engineering workflow"
-  />
-
-  <br/><br/>
-
-  <img
-    width="90%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:00F7FF,100:020617&height=3"
-    alt=""
-  />
-
-  <br/>
-
-  <a href="https://github.com/abbas5665">
-    <img src="https://img.shields.io/badge/EXPLORE_THE_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore my GitHub"/>
-  </a>
-
-</div>
-
-<!-- ═══════ END NEXT-GEN DEVOPS VISUAL SYSTEM ═══════ -->
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
