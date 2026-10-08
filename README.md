@@ -1,75 +1,141 @@
-<!-- ═══════ ABBAS KAZMI | FUTURISTIC DEVOPS IDENTITY ═══════ -->
+```html
+<!-- ═══════════ ABBAS KAZMI | NEURAL DEVOPS CORE ═══════════ -->
 
 <div align="center">
 
-  <!-- ANIMATED DEVOPS IDENTITY -->
+  <!-- ANIMATED IDENTITY CORE -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=DEVOPS+ENGINEER;AUTOMATION+%7C+CI%2FCD+%7C+KUBERNETES;CLOUD+INFRASTRUCTURE+%7C+DEVSECOPS;BUILD.+DEPLOY.+SCALE.+SECURE."
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=950&lines=DEVOPS+ENGINEER;ENGINEERING+THE+FUTURE;AUTOMATE.+ORCHESTRATE.+EVOLVE.;CLOUD+SYSTEMS+%7C+DEVSECOPS"
     alt="Abbas Kazmi — DevOps Engineer"
   />
 
   <br/>
 
-  <!-- FUTURISTIC NEON DIVIDER -->
+  <!-- NEON ENERGY LINE -->
   <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,25:00F7FF,50:FFFFFF,75:7C3AED,100:020617"
+    width="95%"
+    alt=""
+  />
+
+  <br/><br/>
+
+  <!-- ENGINEERING MANIFESTO -->
+  <h3>⟦ THE ENGINEERING DIRECTIVE ⟧</h3>
+
+  <p>
+    <strong>BUILD SYSTEMS THAT SCALE.</strong><br/>
+    <strong>ELIMINATE REPETITIVE WORK.</strong><br/>
+    <strong>SECURE EVERY DEPLOYMENT.</strong><br/>
+    <strong>TURN INFRASTRUCTURE INTO CODE.</strong>
+  </p>
+
+  <br/>
+
+  <!-- CORE DOMAINS -->
+  <img src="https://img.shields.io/badge/01-DEVOPS_ENGINEERING-00F7FF?style=for-the-badge&labelColor=050816" alt="DevOps Engineering"/>
+  <img src="https://img.shields.io/badge/02-CLOUD_INFRASTRUCTURE-3984FF?style=for-the-badge&labelColor=050816" alt="Cloud Infrastructure"/>
+  <img src="https://img.shields.io/badge/03-DEVSECOPS-9D7BFF?style=for-the-badge&labelColor=050816" alt="DevSecOps"/>
+
+  <br/><br/>
+
+  <!-- SYSTEM ARCHITECTURE -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1600&pause=500&color=7DF9FF&center=true&vCenter=true&width=900&lines=SOURCE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;CODE+%E2%86%92+CONTAINERS+%E2%86%92+KUBERNETES;INFRASTRUCTURE+AS+CODE+%7C+AUTOMATED+DELIVERY;OBSERVE+%E2%86%92+SECURE+%E2%86%92+OPTIMIZE"
+    alt="Automated DevOps engineering workflow"
+  />
+
+  <br/><br/>
+
+  <!-- TECHNOLOGY MATRIX -->
+  <h3>⟦ TECHNOLOGY MATRIX ⟧</h3>
+
+  <p><strong>01 / SYSTEMS & AUTOMATION</strong></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark&perline=5"
+    alt="Linux, Bash, Python, Git and GitHub"
+  />
+
+  <br/><br/>
+
+  <p><strong>02 / CONTAINERS & ORCHESTRATION</strong></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions&theme=dark&perline=4"
+    alt="Docker, Kubernetes, Jenkins and GitHub Actions"
+  />
+
+  <br/><br/>
+
+  <p><strong>03 / CLOUD & INFRASTRUCTURE</strong></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark&perline=3"
+    alt="AWS, Terraform and Ansible"
+  />
+
+  <br/><br/>
+
+  <p><strong>04 / OBSERVABILITY</strong></p>
+
+  <img
+    src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark&perline=2"
+    alt="Prometheus and Grafana"
+  />
+
+  <br/><br/>
+
+  <!-- OPERATING PRINCIPLES -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00F7FF,100:020617"
     width="85%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:00F7FF,65:2563EB,100:020617&height=3"
     alt=""
   />
 
   <br/>
 
-  <!-- DEVOPS FIRST -->
-  <img src="https://img.shields.io/badge/CORE-DEVOPS_ENGINEERING-00F7FF?style=for-the-badge&labelColor=050816" alt="Core focus: DevOps Engineering"/>
-  <img src="https://img.shields.io/badge/SPECIALIZATION-CLOUD-3984FF?style=for-the-badge&labelColor=050816" alt="Cloud specialization"/>
-  <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS-9D7BFF?style=for-the-badge&labelColor=050816" alt="DevSecOps specialization"/>
+  <h3>⟦ OPERATING PRINCIPLES ⟧</h3>
 
-  <br/><br/>
+  <p>
+    <code>AUTOMATION_FIRST</code> &nbsp;
+    <code>SECURITY_BY_DESIGN</code> &nbsp;
+    <code>INFRASTRUCTURE_AS_CODE</code>
+  </p>
 
-  <!-- DEVOPS TECHNOLOGY STACK -->
-  <h3>⟡ DEVOPS TECHNOLOGY STACK ⟡</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,kubernetes,jenkins,terraform,ansible&perline=5&theme=dark"
-    alt="Linux, Bash, Git, GitHub, Python, Docker, Kubernetes, Jenkins, Terraform, and Ansible"
-  />
-
-  <br/><br/>
-
-  <!-- CLOUD + DEVSECOPS -->
-  <h3>⟡ CLOUD &amp; DEVSECOPS ⟡</h3>
-
-  <img
-    src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark"
-    alt="AWS, Prometheus, and Grafana"
-  />
-
-  <br/><br/>
-
-  <!-- ANIMATED ENGINEERING WORKFLOW -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=PLAN+%E2%86%92+CODE+%E2%86%92+BUILD+%E2%86%92+TEST;CONTAINERIZE+%E2%86%92+DEPLOY+%E2%86%92+MONITOR;AUTOMATE+INFRASTRUCTURE.+INTEGRATE+SECURITY.;CONTINUOUS+DELIVERY.+RELIABLE+OPERATIONS."
-    alt="Animated DevOps workflow"
-  />
-
-  <br/><br/>
-
-  <!-- FUTURISTIC FOOTER -->
-  <img
-    width="85%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:00F7FF,100:020617&height=2"
-    alt=""
-  />
+  <p>
+    <code>CONTINUOUS_INTEGRATION</code> &nbsp;
+    <code>CONTINUOUS_DELIVERY</code>
+  </p>
 
   <br/>
 
-  <a href="https://github.com/abbas5665">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_DEVOPS_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Explore my DevOps projects"/>
+  <!-- PROJECT ACCESS -->
+  <a href="https://github.com/abbas5665?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/ACCESS_PROJECT_ARCHIVE-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"
+      alt="Explore Abbas Kazmi's GitHub projects"
+    />
   </a>
+
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,25:7C3AED,50:00F7FF,75:FFFFFF,100:020617"
+    width="95%"
+    alt=""
+  />
+
+  <br/>
+
+  <sub>
+    SYSTEMS THINKING · AUTOMATED DELIVERY · SECURE INFRASTRUCTURE
+  </sub>
 
 </div>
 
-<!-- ═══════ END DEVOPS IDENTITY ═══════ -->
+<!-- ═══════════ END NEURAL DEVOPS CORE ═══════════ -->
+```
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
