@@ -4,7 +4,7 @@
 
 <h1 align="center">ABBAS KAZMI</h1>
 
-<h3 align="center">⚡ ASPIRING DEVOPS & CLOUD ENGINEER ⚡</h3>
+<h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-DEVOPS-00E5FF?style=for-the-badge&labelColor=080B16" alt="DevOps focus" />
@@ -21,18 +21,6 @@
   <a href="https://abbas5665.github.io/zero-to-job-ready-devops/">Live DevOps Roadmap</a> •
   <a href="https://github.com/abbas5665?tab=repositories">All Repositories</a>
 </p>
-
----
-
-# Hi 👋, I'm Abbas Kazmi
-
-### Aspiring DevOps Engineer | Cloud & DevSecOps Enthusiast
-
-🚀 Learning, building, automating, and deploying real-world projects.
-
----
-
-## 👨‍💻 About Me
 
 - 🐧 Building hands-on expertise in Linux, Bash, and system administration.
 - ☁️ Learning AWS cloud services and cloud infrastructure.
