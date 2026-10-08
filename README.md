@@ -1,94 +1,91 @@
-<!-- ═══════ NEXT-GEN DEVOPS VISUAL SYSTEM ═══════ -->
-
-<!-- ANIMATED CYBERPUNK HUD -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:071B35,65:102A56,100:020617&height=8"
-  alt=""
-/>
+<!-- ═══════════ ABBAS KAZMI | FUTURISTIC PROFILE CORE ═══════════ -->
 
 <div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CLOUD+INFRASTRUCTURE+%5D;%5B+CONTINUOUS+INTEGRATION+%5D;%5B+AUTOMATION+IN+PROGRESS+%5D;%5B+SECURITY+BY+DESIGN+%5D"
-    alt="Animated DevOps system status"
-  />
-
-  <br/>
-
-  <img
-    src="https://img.shields.io/badge/PLATFORM-CLOUD_NATIVE-00F7FF?style=for-the-badge&logo=icloud&logoColor=00F7FF&labelColor=020617"
-    alt="Cloud native"
-  />
-  <img
-    src="https://img.shields.io/badge/ENGINE-AUTOMATION-9D4EDD?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=020617"
-    alt="Automation"
-  />
-  <img
-    src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED-00FF9C?style=for-the-badge&logo=kubernetes&logoColor=00FF9C&labelColor=020617"
-    alt="Distributed architecture"
-  />
-
-  <br/><br/>
-
-  <!-- FUTURISTIC ENERGY CORE -->
+  <!-- ORIGINAL BANNER — PRESERVED -->
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:003B73,55:005F91,80:312E81,100:020617&height=100&section=header"
+    src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291"
+    alt="Abbas Kazmi — DevOps Engineering"
+  />
+
+  <!-- ANIMATED IDENTITY -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=ABBAS+KAZMI;DEVOPS+%2F+CLOUD+ENGINEERING;AUTOMATION+%2F+DEVSECOPS;BUILD.+DEPLOY.+AUTOMATE.+SECURE."
+    alt="Animated engineering identity"
+  />
+
+  <!-- FUTURISTIC DIVIDER -->
+  <img
+    width="90%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:164EBD,100:00F7FF&height=3&section=header"
     alt=""
   />
 
-  <h2>◈ THE ENGINEERING UNIVERSE ◈</h2>
+  <!-- SYSTEM IDENTIFICATION -->
+  <p>
+    <img src="https://img.shields.io/badge/IDENTITY-DEVOPS_ENGINEER-00F7FF?style=for-the-badge&labelColor=050816" alt="DevOps identity" />
+    <img src="https://img.shields.io/badge/FOCUS-CLOUD_NATIVE-7B61FF?style=for-the-badge&labelColor=050816" alt="Cloud native focus" />
+    <img src="https://img.shields.io/badge/MINDSET-AUTOMATION-00FF9C?style=for-the-badge&labelColor=050816" alt="Automation mindset" />
+  </p>
 
-  <img
-    src="https://skillicons.dev/icons?i=linux,bash,python,git,github,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=7&theme=dark"
-    alt="Linux, Python, Git, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, and Grafana"
-  />
-
-  <br/><br/>
-
-  <!-- THREE-DOMAIN ENGINEERING MATRIX -->
+  <!-- TERMINAL-STYLE INTRODUCTION -->
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/01-00F7FF?style=for-the-badge&labelColor=020617" alt="01"/>
-        <br/>
-        <b>INTEGRATION</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,jenkins&theme=dark" alt="Git, GitHub, Jenkins"/>
-        <br/>
-        <sub>Version Control</sub>
-        <br/>
-        <sub>CI/CD Pipelines</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/02-9D4EDD?style=for-the-badge&labelColor=020617" alt="02"/>
-        <br/>
-        <b>ORCHESTRATION</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform&theme=dark" alt="Docker, Kubernetes, Terraform"/>
-        <br/>
-        <sub>Containers</sub>
-        <br/>
-        <sub>Infrastructure as Code</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/03-00FF9C?style=for-the-badge&labelColor=020617" alt="03"/>
-        <br/>
-        <b>OBSERVABILITY</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux&theme=dark" alt="Prometheus, Grafana, Linux"/>
-        <br/>
-        <sub>Monitoring</sub>
-        <br/>
-        <sub>Reliability & Operations</sub>
+      <td align="left">
+
+        <samp>
+          &gt; INITIALIZING ENGINEERING ENVIRONMENT...<br/>
+          &gt; DOMAIN: DEVOPS | CLOUD | DEVSECOPS<br/>
+          &gt; MISSION: AUTOMATE. SCALE. SECURE.<br/>
+          &gt; MODE: CONTINUOUS LEARNING &amp; BUILDING<br/>
+          &gt; STATUS: READY TO BUILD THE NEXT SYSTEM_
+        </samp>
+
       </td>
     </tr>
   </table>
 
+  <!-- TECHNOLOGY CONSTELLATION -->
+  <h3> ◈ TECHNOLOGY CONSTELLATION ◈ </h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,python,git,github,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=7&theme=dark"
+    alt="DevOps, cloud, automation, and monitoring technologies"
+  />
+
+  <br/><br/>
+
+  <!-- ENGINEERING PRINCIPLES -->
+  <img src="https://img.shields.io/badge/01-LINUX_&_AUTOMATION-0B1220?style=flat-square&labelColor=00BFFF" alt="Linux and automation" />
+  <img src="https://img.shields.io/badge/02-CI%2FCD_PIPELINES-0B1220?style=flat-square&labelColor=635BFF" alt="CI/CD pipelines" />
+  <img src="https://img.shields.io/badge/03-CONTAINERS_&_K8S-0B1220?style=flat-square&labelColor=00C896" alt="Containers and Kubernetes" />
+  <img src="https://img.shields.io/badge/04-INFRASTRUCTURE_AS_CODE-0B1220?style=flat-square&labelColor=FFB020" alt="Infrastructure as code" />
+  <img src="https://img.shields.io/badge/05-OBSERVABILITY_&_SECURITY-0B1220?style=flat-square&labelColor=FF4D8D" alt="Observability and security" />
+
+  <br/><br/>
+
+  <!-- ANIMATED SIGNAL -->
+  <img
+    width="75%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:00F7FF,100:050816&height=2"
+    alt=""
+  />
+
   <br/>
 
-  <!-- ANIMATED DATA SIGNAL -->
+  <samp>ENGINEER THE SYSTEMS. AUTOMATE THE COMPLEXITY. BUILD WHAT'S NEXT.</samp>
+
+  <br/><br/>
+
+  <a href="https://github.com/abbas5665">
+    <img src="https://img.shields.io/badge/ACCESS_GITHUB-abbas5665-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Visit Abbas Kazmi on GitHub" />
+  </a>
+
+</div>
+
+<!-- ═══════════ END FUTURISTIC PROFILE CORE ═══════════ -->
+
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;INFRASTRUCTURE+AS+CODE+%7C+EVERYTHING+AUTOMATED;OBSERVE+%E2%86%92+LEARN+%E2%86%92+IMPROVE;ENGINEERING+THE+NEXT+GENERATION+OF+CLOUD"
     alt="Animated engineering workflow"
