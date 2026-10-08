@@ -1,43 +1,90 @@
- <!-- FUTURISTIC PROFILE HERO -->
+<!-- ═══════════ ABBAS KAZMI | FUTURISTIC PROFILE CORE ═══════════ -->
+
 <div align="center">
 
+  <!-- ORIGINAL BANNER — PRESERVED -->
   <img
     width="100%"
     src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291"
-    alt="Abbas Kazmi — Futuristic DevOps Profile Banner"
+    alt="Abbas Kazmi — DevOps Engineering"
   />
 
-  <br/>
-
+  <!-- ANIMATED IDENTITY -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=ABBAS+KAZMI;DEVOPS+%7C+CLOUD+%7C+DEVSECOPS;BUILDING+THE+FUTURE%2C+ONE+PIPELINE+AT+A+TIME"
-    alt="Animated Abbas Kazmi introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=ABBAS+KAZMI;DEVOPS+%2F+CLOUD+ENGINEERING;AUTOMATION+%2F+DEVSECOPS;BUILD.+DEPLOY.+AUTOMATE.+SECURE."
+    alt="Animated engineering identity"
   />
 
-  <br/>
+  <!-- FUTURISTIC DIVIDER -->
+  <img
+    width="90%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:164EBD,100:00F7FF&height=3&section=header"
+    alt=""
+  />
+
+  <!-- SYSTEM IDENTIFICATION -->
+  <p>
+    <img src="https://img.shields.io/badge/IDENTITY-DEVOPS_ENGINEER-00F7FF?style=for-the-badge&labelColor=050816" alt="DevOps identity" />
+    <img src="https://img.shields.io/badge/FOCUS-CLOUD_NATIVE-7B61FF?style=for-the-badge&labelColor=050816" alt="Cloud native focus" />
+    <img src="https://img.shields.io/badge/MINDSET-AUTOMATION-00FF9C?style=for-the-badge&labelColor=050816" alt="Automation mindset" />
+  </p>
+
+  <!-- TERMINAL-STYLE INTRODUCTION -->
+  <table>
+    <tr>
+      <td align="left">
+
+        <samp>
+          &gt; INITIALIZING ENGINEERING ENVIRONMENT...<br/>
+          &gt; DOMAIN: DEVOPS | CLOUD | DEVSECOPS<br/>
+          &gt; MISSION: AUTOMATE. SCALE. SECURE.<br/>
+          &gt; MODE: CONTINUOUS LEARNING &amp; BUILDING<br/>
+          &gt; STATUS: READY TO BUILD THE NEXT SYSTEM_
+        </samp>
+
+      </td>
+    </tr>
+  </table>
+
+  <!-- TECHNOLOGY CONSTELLATION -->
+  <h3> ◈ TECHNOLOGY CONSTELLATION ◈ </h3>
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:071B35,100:00D9FF&height=2&section=header"
-    width="85%"
+    src="https://skillicons.dev/icons?i=linux,bash,python,git,github,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=7&theme=dark"
+    alt="DevOps, cloud, automation, and monitoring technologies"
+  />
+
+  <br/><br/>
+
+  <!-- ENGINEERING PRINCIPLES -->
+  <img src="https://img.shields.io/badge/01-LINUX_&_AUTOMATION-0B1220?style=flat-square&labelColor=00BFFF" alt="Linux and automation" />
+  <img src="https://img.shields.io/badge/02-CI%2FCD_PIPELINES-0B1220?style=flat-square&labelColor=635BFF" alt="CI/CD pipelines" />
+  <img src="https://img.shields.io/badge/03-CONTAINERS_&_K8S-0B1220?style=flat-square&labelColor=00C896" alt="Containers and Kubernetes" />
+  <img src="https://img.shields.io/badge/04-INFRASTRUCTURE_AS_CODE-0B1220?style=flat-square&labelColor=FFB020" alt="Infrastructure as code" />
+  <img src="https://img.shields.io/badge/05-OBSERVABILITY_&_SECURITY-0B1220?style=flat-square&labelColor=FF4D8D" alt="Observability and security" />
+
+  <br/><br/>
+
+  <!-- ANIMATED SIGNAL -->
+  <img
+    width="75%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:00F7FF,100:050816&height=2"
     alt=""
   />
 
   <br/>
 
-  <img
-    src="https://img.shields.io/badge/STATUS-ENGINEERING_THE_FUTURE-00F7FF?style=for-the-badge&labelColor=050816"
-    alt="Engineering the future"
-  />
+  <samp>ENGINEER THE SYSTEMS. AUTOMATE THE COMPLEXITY. BUILD WHAT'S NEXT.</samp>
 
   <br/><br/>
 
-  <img
-    src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,docker,kubernetes,terraform,jenkins"
-    alt="DevOps technology stack"
-  />
+  <a href="https://github.com/abbas5665">
+    <img src="https://img.shields.io/badge/ACCESS_GITHUB-abbas5665-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Visit Abbas Kazmi on GitHub" />
+  </a>
 
 </div>
-<!-- END FUTURISTIC PROFILE HERO --> 
+
+<!-- ═══════════ END FUTURISTIC PROFILE CORE ═══════════ --> 
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
