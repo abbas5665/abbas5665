@@ -24,166 +24,123 @@
 
 ---
 
-## ◈ 01 — SYSTEM PROFILE
+# Hi 👋, I'm Abbas Kazmi
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### Aspiring DevOps Engineer | Cloud & DevSecOps Enthusiast
 
-### 👨‍💻 About Me
+🚀 Learning, building, automating, and deploying real-world projects.
 
-I'm an aspiring DevOps and Cloud Engineer focused on learning through practical projects, automation, and hands-on infrastructure labs.
+---
 
-- 🐧 Practicing Linux, Ubuntu, Bash, and system administration.
-- 🔀 Learning Git, GitHub, version control, and collaboration workflows.
-- ⚙️ Building CI/CD workflows with GitHub Actions and Jenkins.
-- 🐳 Containerizing applications with Docker and Docker Compose.
+## 👨‍💻 About Me
+
+- 🐧 Building hands-on expertise in Linux, Bash, and system administration.
+- ☁️ Learning AWS cloud services and cloud infrastructure.
+- 🔄 Practicing Git, GitHub, CI/CD pipelines, and automation.
+- 🐳 Working with Docker, Docker Compose, and containerized applications.
 - ☸️ Exploring Kubernetes and cloud-native deployments.
-- ☁️ Developing knowledge of AWS and infrastructure as code.
-- 🔐 Learning DevSecOps, monitoring, logging, and security fundamentals.
+- 🔐 Developing my knowledge of DevSecOps, infrastructure as code, and security.
+- 🛠️ Building practical projects to demonstrate my skills.
+- 📚 Following a structured journey from beginner to job-ready DevOps engineer.
 
-**MISSION:** Turn practical learning into reliable, automated infrastructure.
-
-</td>
-<td width="40%" valign="top">
-
-### 🖥️ Current Focus
-
-| Area | Focus |
-|---|---|
-| OS | Linux / Ubuntu |
-| Containers | Docker |
-| CI/CD | GitHub Actions / Jenkins |
-| Orchestration | Kubernetes / Minikube |
-| Cloud | AWS fundamentals |
-| IaC | Terraform fundamentals |
-| Scripting | Bash / JavaScript |
-
-</td>
-</tr>
-</table>
+**My philosophy:** Learn by building, automate wherever possible, and document every project.
 
 ---
 
-## ◈ 02 — TECHNICAL ARSENAL
+## 🛠️ Technical Skills
 
-<p>
-  <strong>OPERATING SYSTEMS & SHELL</strong><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+**Operating Systems & Scripting**
+- Linux, Ubuntu, Bash
 
-<p>
-  <strong>VERSION CONTROL & AUTOMATION</strong><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-</p>
+**Version Control & CI/CD**
+- Git, GitHub, GitHub Actions, Jenkins
 
-<p>
-  <strong>CONTAINERS & ORCHESTRATION</strong><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Minikube-3970E4?style=flat-square&logo=kubernetes&logoColor=white" alt="Minikube" />
-</p>
+**Containers & Orchestration**
+- Docker, Docker Compose, Kubernetes, Minikube
 
-<p>
-  <strong>CLOUD & INFRASTRUCTURE</strong><br/>
-  <img src="https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS fundamentals" />
-  <img src="https://img.shields.io/badge/Terraform_Fundamentals-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform fundamentals" />
-</p>
+**Cloud & Infrastructure**
+- AWS fundamentals, Terraform fundamentals
 
-<p>
-  <strong>PROGRAMMING & APPLICATIONS</strong><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
+**Programming & Automation**
+- JavaScript, Node.js fundamentals, shell scripting
 
-<p align="center">
-  <i>Skills are at different stages of practice and learning; this profile documents ongoing progress.</i>
-</p>
-
----
-## ◈ 04 — HANDS-ON LABS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[01] Containerization**
-
-- Building Docker images.
-- Running containerized applications.
-- Practicing Docker Compose.
-
-</td>
-<td width="50%" valign="top">
-
-**[02] CI/CD Automation**
-
-- Creating GitHub Actions workflows.
-- Practicing automated testing.
-- Building multi-stage Jenkins pipelines.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[03] Cloud-Native Deployment**
-
-- Exploring Kubernetes resources.
-- Running local clusters with Minikube.
-- Practicing application deployment.
-
-</td>
-<td width="50%" valign="top">
-
-**[04] Infrastructure & Security**
-
-- Learning Terraform fundamentals.
-- Exploring monitoring and logging.
-- Developing DevSecOps knowledge.
-
-</td>
-</tr>
-</table>
+**Monitoring & DevSecOps**
+- Learning monitoring, logging, infrastructure automation, and security best practices
 
 ---
 
-## ◈ 05 — GITHUB TELEMETRY
+## 💼 Hands-on Experience & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbas5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=9D5CFF&text_color=FFFFFF" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas5665&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=FFFFFF" height="165" alt="Most-used programming languages" />
-</p>
+### DevOps Projects & Practical Labs
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abbas5665&theme=tokyonight&hide_border=true&background=080B16&ring=00E5FF&fire=9D5CFF&currStreakLabel=00E5FF" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <i>Statistics are provided by external services and may occasionally be unavailable or delayed.</i>
-</p>
+- Built and published a DevOps learning roadmap using GitHub Pages.
+- Practiced building Docker images and running containerized applications.
+- Created CI/CD workflows using GitHub Actions.
+- Built a Jenkins pipeline with multiple stages.
+- Practiced deploying applications using Kubernetes and Minikube.
+- Worked on a cloud-native infrastructure demonstration project.
 
 ---
 
-## ◈ 06 — CONNECT
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/abbas5665">
-    <img src="https://img.shields.io/badge/GITHUB-abbas5665-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B16" alt="GitHub profile" />
-  </a>
-  <a href="https://abbas5665.github.io/zero-to-job-ready-devops/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_PROJECT-9D5CFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=080B16" alt="Live portfolio project" />
-  </a>
-</p>
+### 1. CloudForge Platform
+**DevOps & Cloud-Native Infrastructure Demo**
 
+A hands-on project exploring microservices, containerization, CI/CD, Kubernetes, infrastructure automation, monitoring, and security.
+
+**Tech:** Docker, Node.js, PostgreSQL, Redis, Kubernetes, GitHub Actions
+
+🔗 [View Repository](https://github.com/abbas5665/cloudforge-platform)
+
+### 2. Zero to Job-Ready DevOps Roadmap
+
+An interactive learning resource organizing the DevOps journey into structured stages, from Linux and networking to cloud, containers, CI/CD, and observability.
+
+**Tech:** HTML, CSS, JavaScript, GitHub Pages
+
+🔗 [View Repository](https://github.com/abbas5665/zero-to-job-ready-devops)
+
+🌐 [Visit Live Project](https://abbas5665.github.io/zero-to-job-ready-devops/)
+
+### 3. DevOps Pipelines
+
+A practical repository for learning and implementing automated software testing and CI/CD workflows with GitHub Actions.
+
+**Tech:** Git, GitHub Actions, Node.js, npm
+
+🔗 [View Repository](https://github.com/abbas5665/devops-pipelines)
+
+### 4. Mastering Git & GitHub
+
+A hands-on repository for practicing version control, branches, commits, remote repositories, merging, rebasing, and collaboration workflows.
+
+**Tech:** Git, GitHub, Linux, SSH
+
+🔗 [View Repository](https://github.com/abbas5665/mastering-git-github)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbas5665&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas5665&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abbas5665&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [@abbas5665](https://github.com/abbas5665)
+- 🌐 Linkedien:(https://www.linkedin.com/in/abbas-kazmi-911ak/)
+
+---
+
+### 💡 Always Learning. Always Building. Always Automating.
+
+*Documenting my journey toward becoming a DevOps and Cloud Engineer, one project at a time.*
 ---
 
 <p align="center">
