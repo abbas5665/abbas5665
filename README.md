@@ -2,7 +2,8 @@
   <img src="assets/hero.svg" alt="Abbas Kazmi - Futuristic DevOps Banner" width="100%" />
 </div>
 
-<h1 align="center">ABBAS KAZMI</h1>
+<h1 align="center">ABBAS KAZMI</h1>     <img width="2172" height="548" alt="ChatGPT Image Sep 11, 2026, 06_34_19 PM111111111" src="https://github.com/user-attachments/assets/0ddc2f67-fe21-4c48-8cd5-a99d6545708a" />
+
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
 
@@ -21,7 +22,6 @@
   <a href="https://abbas5665.github.io/zero-to-job-ready-devops/">Live DevOps Roadmap</a> •
   <a href="https://github.com/abbas5665?tab=repositories">All Repositories</a>
 </p>
-----
 
 - 🐧 Building hands-on expertise in Linux, Bash, and system administration.
 - ☁️ Learning AWS cloud services and cloud infrastructure.
