@@ -1,116 +1,75 @@
-<!-- ═══════ NEXT-GEN DEVOPS VISUAL SYSTEM ═══════ -->
-
-<!-- ANIMATED CYBERPUNK HUD -->
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:071B35,65:102A56,100:020617&height=8"
-  alt=""
-/>
+<!-- ═══════ ABBAS KAZMI | FUTURISTIC DEVOPS IDENTITY ═══════ -->
 
 <div align="center">
 
+  <!-- ANIMATED DEVOPS IDENTITY -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CLOUD+INFRASTRUCTURE+%5D;%5B+CONTINUOUS+INTEGRATION+%5D;%5B+AUTOMATION+IN+PROGRESS+%5D;%5B+SECURITY+BY+DESIGN+%5D"
-    alt="Animated DevOps system status"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=DEVOPS+ENGINEER;AUTOMATION+%7C+CI%2FCD+%7C+KUBERNETES;CLOUD+INFRASTRUCTURE+%7C+DEVSECOPS;BUILD.+DEPLOY.+SCALE.+SECURE."
+    alt="Abbas Kazmi — DevOps Engineer"
   />
 
   <br/>
 
+  <!-- FUTURISTIC NEON DIVIDER -->
   <img
-    src="https://img.shields.io/badge/PLATFORM-CLOUD_NATIVE-00F7FF?style=for-the-badge&logo=icloud&logoColor=00F7FF&labelColor=020617"
-    alt="Cloud native"
-  />
-  <img
-    src="https://img.shields.io/badge/ENGINE-AUTOMATION-9D4EDD?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=020617"
-    alt="Automation"
-  />
-  <img
-    src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED-00FF9C?style=for-the-badge&logo=kubernetes&logoColor=00FF9C&labelColor=020617"
-    alt="Distributed architecture"
-  />
-
-  <br/><br/>
-
-  <!-- FUTURISTIC ENERGY CORE -->
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:003B73,55:005F91,80:312E81,100:020617&height=100&section=header"
+    width="85%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:00F7FF,65:2563EB,100:020617&height=3"
     alt=""
   />
 
-  <h2>◈ THE ENGINEERING UNIVERSE ◈</h2>
-
-  <img
-    src="https://skillicons.dev/icons?i=linux,bash,python,git,github,aws,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=7&theme=dark"
-    alt="Linux, Python, Git, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, and Grafana"
-  />
-
-  <br/><br/>
-
-  <!-- THREE-DOMAIN ENGINEERING MATRIX -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/01-00F7FF?style=for-the-badge&labelColor=020617" alt="01"/>
-        <br/>
-        <b>INTEGRATION</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,jenkins&theme=dark" alt="Git, GitHub, Jenkins"/>
-        <br/>
-        <sub>Version Control</sub>
-        <br/>
-        <sub>CI/CD Pipelines</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/02-9D4EDD?style=for-the-badge&labelColor=020617" alt="02"/>
-        <br/>
-        <b>ORCHESTRATION</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform&theme=dark" alt="Docker, Kubernetes, Terraform"/>
-        <br/>
-        <sub>Containers</sub>
-        <br/>
-        <sub>Infrastructure as Code</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/03-00FF9C?style=for-the-badge&labelColor=020617" alt="03"/>
-        <br/>
-        <b>OBSERVABILITY</b>
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux&theme=dark" alt="Prometheus, Grafana, Linux"/>
-        <br/>
-        <sub>Monitoring</sub>
-        <br/>
-        <sub>Reliability & Operations</sub>
-      </td>
-    </tr>
-  </table>
-
   <br/>
 
-  <!-- ANIMATED DATA SIGNAL -->
+  <!-- DEVOPS FIRST -->
+  <img src="https://img.shields.io/badge/CORE-DEVOPS_ENGINEERING-00F7FF?style=for-the-badge&labelColor=050816" alt="Core focus: DevOps Engineering"/>
+  <img src="https://img.shields.io/badge/SPECIALIZATION-CLOUD-3984FF?style=for-the-badge&labelColor=050816" alt="Cloud specialization"/>
+  <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS-9D7BFF?style=for-the-badge&labelColor=050816" alt="DevSecOps specialization"/>
+
+  <br/><br/>
+
+  <!-- DEVOPS TECHNOLOGY STACK -->
+  <h3>⟡ DEVOPS TECHNOLOGY STACK ⟡</h3>
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;INFRASTRUCTURE+AS+CODE+%7C+EVERYTHING+AUTOMATED;OBSERVE+%E2%86%92+LEARN+%E2%86%92+IMPROVE;ENGINEERING+THE+NEXT+GENERATION+OF+CLOUD"
-    alt="Animated engineering workflow"
+    src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,kubernetes,jenkins,terraform,ansible&perline=5&theme=dark"
+    alt="Linux, Bash, Git, GitHub, Python, Docker, Kubernetes, Jenkins, Terraform, and Ansible"
   />
 
   <br/><br/>
 
+  <!-- CLOUD + DEVSECOPS -->
+  <h3>⟡ CLOUD &amp; DEVSECOPS ⟡</h3>
+
   <img
-    width="90%"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:00F7FF,100:020617&height=3"
+    src="https://skillicons.dev/icons?i=aws,prometheus,grafana&theme=dark"
+    alt="AWS, Prometheus, and Grafana"
+  />
+
+  <br/><br/>
+
+  <!-- ANIMATED ENGINEERING WORKFLOW -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=600&color=7DF9FF&center=true&vCenter=true&width=850&lines=PLAN+%E2%86%92+CODE+%E2%86%92+BUILD+%E2%86%92+TEST;CONTAINERIZE+%E2%86%92+DEPLOY+%E2%86%92+MONITOR;AUTOMATE+INFRASTRUCTURE.+INTEGRATE+SECURITY.;CONTINUOUS+DELIVERY.+RELIABLE+OPERATIONS."
+    alt="Animated DevOps workflow"
+  />
+
+  <br/><br/>
+
+  <!-- FUTURISTIC FOOTER -->
+  <img
+    width="85%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:00F7FF,100:020617&height=2"
     alt=""
   />
 
   <br/>
 
   <a href="https://github.com/abbas5665">
-    <img src="https://img.shields.io/badge/EXPLORE_THE_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore my GitHub"/>
+    <img src="https://img.shields.io/badge/EXPLORE_MY_DEVOPS_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Explore my DevOps projects"/>
   </a>
 
 </div>
 
-<!-- ═══════ END NEXT-GEN DEVOPS VISUAL SYSTEM ═══════ -->
+<!-- ═══════ END DEVOPS IDENTITY ═══════ -->
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
