@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abbas Kazmi
 
-### Aspiring DevOps Engineer | Cloud & DevSecOps Enthusiast
+### Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetest
 
 🚀 Learning, building, automating, and deploying real-world projects.
 
