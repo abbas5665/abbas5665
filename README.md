@@ -152,6 +152,7 @@
 
 <!-- ═══════════ END DEVOPS PROFILE ═══════════ -->
 
+Hi 👋, I'm Abbas Kazmi
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
 
