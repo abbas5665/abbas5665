@@ -21,6 +21,7 @@
   <a href="https://abbas5665.github.io/zero-to-job-ready-devops/">Live DevOps Roadmap</a> •
   <a href="https://github.com/abbas5665?tab=repositories">All Repositories</a>
 </p>
+----
 
 - 🐧 Building hands-on expertise in Linux, Bash, and system administration.
 - ☁️ Learning AWS cloud services and cloud infrastructure.
