@@ -1,8 +1,43 @@
- <div align="center">
-  <img width="2172" height="548" alt="ChatGPT Image Sep 11, 2026, 06_34_19 PM111111111" src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291" />
-</div>
+ <!-- FUTURISTIC PROFILE HERO -->
+<div align="center">
 
-<h1 align="center">ABBAS KAZMI</h1>
+  <img
+    width="100%"
+    src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291"
+    alt="Abbas Kazmi — Futuristic DevOps Profile Banner"
+  />
+
+  <br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=ABBAS+KAZMI;DEVOPS+%7C+CLOUD+%7C+DEVSECOPS;BUILDING+THE+FUTURE%2C+ONE+PIPELINE+AT+A+TIME"
+    alt="Animated Abbas Kazmi introduction"
+  />
+
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:071B35,100:00D9FF&height=2&section=header"
+    width="85%"
+    alt=""
+  />
+
+  <br/>
+
+  <img
+    src="https://img.shields.io/badge/STATUS-ENGINEERING_THE_FUTURE-00F7FF?style=for-the-badge&labelColor=050816"
+    alt="Engineering the future"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,docker,kubernetes,terraform,jenkins"
+    alt="DevOps technology stack"
+  />
+
+</div>
+<!-- END FUTURISTIC PROFILE HERO --> 
 
 
 <h3 align="center">⚡ Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetes ⚡</h3>
