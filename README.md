@@ -1,6 +1,5 @@
  <div align="center">
-  <<img width="2172" height="548" alt="ChatGPT Image Sep 11, 2026, 06_34_19 PM111111111" src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291" />
-/>
+  <img width="2172" height="548" alt="ChatGPT Image Sep 11, 2026, 06_34_19 PM111111111" src="https://github.com/user-attachments/assets/491aef3c-9eb9-4337-bfe6-cdd6acc9c291" />
 </div>
 
 <h1 align="center">ABBAS KAZMI</h1>
