@@ -1,3 +1,5 @@
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/a46430bf-5896-4dd8-8a3a-95dfa963060e" />
+
 # Hi 👋, I'm Abbas Kazmi
 
 ### Aspiring DevOps Engineer | Linux | Docker | CI/CD | AWS | Kubernetest
